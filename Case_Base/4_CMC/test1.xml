@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OpenSimDocument Version="30000">
+	<ForceSet name="GenericAmputeeModel_Right_ankle_Reserve_Actuators">
+		<objects>
+     
+			<CoordinateActuator name="lumbar_ext">
+			
+			</CoordinateActuator>
+
+			<CoordinateActuator name="lumbar_bend">
+		
+			</CoordinateActuator>
+
+			<CoordinateActuator name="lumbar_rot">
+			
+			</CoordinateActuator>
+
+			<CoordinateActuator name="shoulder_flex_r">
+			
+			</CoordinateActuator>
+
+			<CoordinateActuator name="shoulder_add_r">
+
+			</CoordinateActuator>
+
+			<CoordinateActuator name="shoulder_rot_r">
+
+			</CoordinateActuator>
+
+			<CoordinateActuator name="elbow_flex_r">
+
+			</CoordinateActuator>
+
+			<CoordinateActuator name="pro_sup_r">
+
+			</CoordinateActuator>
+
+			<CoordinateActuator name="wrist_flex_r">
+
+			</CoordinateActuator>
+
+			<CoordinateActuator name="wrist_dev_r">
+
+			</CoordinateActuator>
+
+			<CoordinateActuator name="shoulder_flex_l">
+
+			</CoordinateActuator>
+
+			<CoordinateActuator name="shoulder_add_l">
+
+			</CoordinateActuator>
+
+			<CoordinateActuator name="shoulder_rot_l">
+
+			</CoordinateActuator>
+
+			<CoordinateActuator name="elbow_flex_l">
+
+			</CoordinateActuator>
+
+			<CoordinateActuator name="pro_sup_l">
+
+			</CoordinateActuator>
+
+			<CoordinateActuator name="wrist_flex_l">
+
+			</CoordinateActuator>
+
+			<CoordinateActuator name="wrist_dev_l">
+
+			</CoordinateActuator>
+
+			
+		</objects>
+		<groups />
+	</ForceSet>
+</OpenSimDocument>
